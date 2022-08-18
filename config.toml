@@ -2,4 +2,3 @@ baseURL = 'www.rchikkam.co.uk'
 languageCode = 'en-us'
 title = 'Rohan Chikkam'
 theme = mini
-defaultContentLanguage = en
