@@ -1,3 +1,9 @@
+---
+title: "Mensa Ai Article"
+date: 2022-08-18T23:10:56+01:00
+draft: false
+---
+
 *Artificial Intelligence*. *Machine Learning*. *Deep Learning*.
 
 In our ever-changing society -- laden with the latest and greatest technology, it is almost inevitable that you have heard these phrases. Although, usually used interchangeably, I'd like to take this opportunity to highlight stark differences; which are often hidden by the ignorance of media.
@@ -26,3 +32,4 @@ Computer scientists are implementing what is known as "containerism" in order to
 
 Originally featured in the [MENSA 2020 Vision Special Magazine](https://rchikkam.co.uk/assets/MENSA_AI.pdf)\
 Also on [Scio](https://scio-uk.github.io/tech/artificial-intelligence-its-place-in-our-world/)
+
