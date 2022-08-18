@@ -1,5 +1,6 @@
 baseURL = 'www.rchikkam.co.uk'
 languageCode = 'en-us'
 title = 'Rohan Chikkam'
+bio = 'Discrete Mathematics Student'
 theme = 'mini'
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'en'g
