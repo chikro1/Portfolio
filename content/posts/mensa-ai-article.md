@@ -1,8 +1,10 @@
 ---
-title: "Mensa Ai Article"
+title: "Artificial Intelligence - It's Place In Our World"
 date: 2022-08-18T23:10:56+01:00
 draft: false
 ---
+Originally featured in the [MENSA 2020 Vision Special Magazine](https://rchikkam.co.uk/assets/MENSA_AI.pdf)\
+Also on [Scio](https://scio-uk.github.io/tech/artificial-intelligence-its-place-in-our-world/)
 
 *Artificial Intelligence*. *Machine Learning*. *Deep Learning*.
 
@@ -29,7 +31,3 @@ Hopefully from this, you can see the imminent threat that is posed to the human 
 ...surely, if artificial intelligence becomes clever enough such that its intellect is greater than ours, it is clever enough not only to understand the 3 rules, but also know that we will monitor it abides by those rules. Will it not try and take advantage of us, by just seemingly following the rules...?
 
 Computer scientists are implementing what is known as "containerism" in order to always have the physical or metaphorical "plug" to the system in hand. In general, AI was created and designed to spot classifiers, which could not be found by even the cleverest of humans. The potential that these systems hold is immensely great, but at the same time they hold the immensely great potential to destroy our trust and our world.
-
-Originally featured in the [MENSA 2020 Vision Special Magazine](https://rchikkam.co.uk/assets/MENSA_AI.pdf)\
-Also on [Scio](https://scio-uk.github.io/tech/artificial-intelligence-its-place-in-our-world/)
-
