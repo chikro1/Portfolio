@@ -31,7 +31,7 @@
         {{ if $paginator.HasNext }}
         <span class="next">
             <a href="{{.Paginator.Next.URL}}">
-                {{ with .Site.Params.olderPosts }}Older Posts<span class="arrow">→</span>
+                {{ with .Site.Params.olderPosts }}Older Posts{{ end }}<span class="arrow">→</span>
             </a>
         </span>
         {{ end }}
