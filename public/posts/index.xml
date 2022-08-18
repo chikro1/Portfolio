@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://www.rchikkam.co.uk/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>https://www.rchikkam.co.uk/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jul 2016 23:10:56 +0100</lastBuildDate><atom:link href="https://www.rchikkam.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jul 2016 23:10:56 +0100</lastBuildDate><atom:link href="https://www.rchikkam.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence - It&#39;s Place In Our World</title>
       <link>https://www.rchikkam.co.uk/posts/mensa-ai-article/</link>
