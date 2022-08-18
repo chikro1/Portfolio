@@ -1,12 +1,9 @@
 baseURL = 'https://www.rchikkam.co.uk/'
 languageCode = 'en-us'
-title = 'Rohan Chikkam'
+title = ''
 theme = "paper"
 
 [params]
-  # color theme
-  theme = 'gray'                 # gray, light, linen, wheat
-
   # header social icons
   github = 'chikkamrohan'       # github.com/YOUR_GITHUB_ID
   instagram = 'chikkamrohan' # instagram.com/YOUR_INSTAGRAM_ID
