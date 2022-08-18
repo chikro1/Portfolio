@@ -4,10 +4,6 @@ title = ''
 theme = "paper"
 
 [params]
-  # header social icons
-  github = 'chikkamrohan'       # github.com/YOUR_GITHUB_ID
-  instagram = 'chikkamrohan' # instagram.com/YOUR_INSTAGRAM_ID
-
   # home page profile
   avatar = 'GRAVATAR_EMAIL'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
   name = 'Rohan Chikkam'

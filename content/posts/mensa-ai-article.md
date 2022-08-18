@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence - It's Place In Our World"
-date: 2022-08-18T23:10:56+01:00
+date: 2016-07-15T23:10:56+01:00
 draft: false
 ---
 Originally featured in the [MENSA 2020 Vision Special Magazine](https://rchikkam.co.uk/assets/MENSA_AI.pdf)\
