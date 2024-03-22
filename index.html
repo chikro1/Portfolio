@@ -1,37 +1,93 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Rohan Chikkam</title>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<h1 class="page-title">Posts:</h1>
+<title>Rohan Chikkam</title>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h2 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    <span class="post-date">{{ post.info }}</span>
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-  </div>
-  {% endfor %}
-</div>
+<!-- Google Fonts -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,500|Lato|Open+Sans' rel='stylesheet' type='text/css'>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<link href='https://fonts.googleapis.com/css?family=Oswald:400,300|Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+<script src="https://use.fontawesome.com/2c22feb109.js"></script><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+		<!-- NAVIGATION -->
+		<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+			<div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand page-scroll" href="#page-top">Rohan Chikkam</a>
+				</div>
+			</div><!-- /.container -->
+		</div><!-- /.navbar -->
+
+		<!-- HEADER -->
+		<header class="intro">
+			<div class="intro-body">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 col-offset-2 text-center">
+							<img class="profile-pic" src="Cafe.jpg" alt="Rohan Chikkam" height="500pc">
+						</div>
+					</div>	
+					<p class="intro-text">Masters in Finance Student, Technology Enthusiast</p>				
+				</div>
+			</div>
+		</header>
+			
+		<!-- ABOUT SECTION -->
+		<section id="about">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 col-offset-2 text-center">
+						<h2 class="section-heading">About</h2>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2">
+						<p class="lead">MFin Finance at MIT '26</p>
+						<p class="lead">BSc Discrete Mathematics at University of Warwick '24</p>
+						<p class="lead">Goldman Quant Strat Summer Analyst '23</p>
+						<p class="lead"><a>Ciriculum Vitae</a></p>
+					</div>
+				</div>				
+			</div>
+		</section>
+	
+	
+		<!-- Social Media Contact-->
+		<div class="social text-center">
+			<ul>
+
+				<li><a href="https://github.com/chikro1/"><i class="fa fa-3x fa-github"></i></a></li>
+
+				<li><a href="https://gitlab.com/chikro1/"><i class="fa fa-3x fa-gitlab"></i></a></li>
+
+				<li><a href="mailto:hello@rchikkam.co.uk"><i class="fa fa-3x fa-envelope-o" aria-hidden="true"></i></a></li>
+
+				<li><a href="https://www.linkedin.com/in/vssrc/"><i class="fa fa-3x fa-linkedin	"></i></a></li>
+				
+			</ul>
+		</div>
+	
+	</body>
+</body>
+</html>
